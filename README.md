@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<h1 align="left">Anatolii Sapunov (@sapun4ik) 👋</h1>
+
+- 💻 Core Stack: **Java/Kotlin/Go, JS/React**. Mainly focused on Backend & DevOps.
+- 🔥 Interested in Blockchain & DeFi & NFT
+- 👨‍💻 Linkedin | Instagram | Medium: **@sapun4ik**
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sapun4ik&show_icons=true&hide_title=true" alt="sapun4ik" /></p>
+
 <!--
 **sapun4ik/sapun4ik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
