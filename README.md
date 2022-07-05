@@ -1,10 +1,15 @@
-### Hi there 👋
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
+## Hi there 👋
 
 <h1 align="left">Anatolii Sapunov (@sapun4ik) 👋</h1>
 
 - 💻 Core Stack: **Java/Kotlin/Go, JS/React**. Mainly focused on Backend & DevOps.
 - 🔥 Interested in Blockchain
-- 👨‍💻 Linkedin | Instagram | Medium: **@sapun4ik**
+- 👨‍💻 Linkedin | Instagram | Medium: **@sapun4ik** <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+<br />
+
+
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sapun4ik&show_icons=true&hide_title=true" alt="sapun4ik" /></p>
 
