@@ -4,9 +4,9 @@
 
 <h1 align="left">Anatolii Sapunov (@sapun4ik) <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h1>
 
-- 💻 Core Stack: **Java/Kotlin/Go, JS/React**. Mainly focused on Backend & DevOps.
+- 💻 Core Stack: **Java/Kotlin/Go, JS/React, Flutter 🥰**. Mainly focused on Backend & DevOps.
 - 🔥 Interested in Blockchain
-- 👨‍💻 Linkedin | Instagram | Medium: **@sapun4ik** 
+- 👨‍💻 Linkedin | Instagram : **@sapun4ik** 
 <br />
 
 
